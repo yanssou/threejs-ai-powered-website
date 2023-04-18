@@ -5,4 +5,4 @@ d'importer son prompre motif / logo ou de demander à une IA (DALL-E) à l'aide 
 sur le T-Shirt.
 Projet réalisé en ReactJS / TailWindCSS pour le front et en NodeJS pour le back
 
-![Home]('home-page.png')
+![Home](home-page.png)
